@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Connectors")(type "KiCad")(uri "$(KIPRJMOD)/../../footprints/connectors.pretty")(options "")(descr "Custom Connectors"))
+  (lib (name "Passives")(type "KiCad")(uri "$(KIPRJMOD)/../../footprints/passives.pretty")(options "")(descr "Custom Passives"))
+)
