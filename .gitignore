@@ -1,0 +1,38 @@
+# KiCad backup files
+*.bak
+*-bak
+*~
+_autosave-*
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups/
+
+# KiCad lock files
+*.lck
+
+# KiCad project-specific user settings
+*.kicad_prl
+*.pro-user
+
+# KiCad output files
+*.net
+*.erc
+*.drc
+*.rpt
+*.job
+*.log
+fp-info-cache
+
+# KiCad rescue files
+*-cache.lib
+*-rescue.lib
+*-rescue.sch
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
